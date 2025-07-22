@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-opentransitionideas.png" alt="OpenTransitionIdeas logo" width="200"/>
+  <img src="./logo-opentransitionideas.png" alt="OpenTransitionIdeas logo" width="250"/>
 </p>
 
 # 🌍 OpenTransitionIdeas  
