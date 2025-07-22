@@ -2,7 +2,6 @@
   <img src="./logo-opentransitionideas.png" alt="OpenTransitionIdeas logo" width="400"/>
 </p>
 
-# 🌍 OpenTransitionIdeas  
 **A public initiative for open, documented ideas to accelerate the environmental, energy and climate transition**  
 _Un projet public d’idées ouvertes et documentées pour accélérer la transition environnementale, énergétique et climatique_
 
