@@ -46,7 +46,7 @@ Ce projet propose un **analyseur open-source, autonome, reproductible localement
 # 🔋 Low-cost battery end-of-life analyzer  
 **Open-source device to assess lithium-ion battery health and guide second-life or recycling decisions.**
 
-## 🇬🇧 Description
+## EN Description
 
 Millions of EV batteries are approaching their end-of-life for vehicle use.  
 However, most still retain 60–90 % of their capacity and could be reused in **stationary storage systems** (solar, backup, microgrid...).
